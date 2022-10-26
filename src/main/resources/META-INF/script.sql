@@ -1,0 +1,1 @@
+insert into cliente(nome) values ("jose"), ("maria");
